@@ -8,10 +8,10 @@ public class Calculator {
 
         System.out.println("===== SIMPLE CALCULATOR =====");
 
-        System.out.print("Enter first number: ");
+        System.out.print("Enter first(1) number: ");
         double num1 = sc.nextDouble();
 
-        System.out.print("Enter second number: ");
+        System.out.print("Enter second(2) number: ");
         double num2 = sc.nextDouble();
 
         System.out.println("\nSelect Operation:");
